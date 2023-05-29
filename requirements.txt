@@ -3,3 +3,7 @@ numpy
 ipykernel
 plotly
 nbformat
+requests
+pandas>=2.0
+pydantic
+datamodel-code-generator
